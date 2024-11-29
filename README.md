@@ -1,17 +1,16 @@
 
 Here are some screenshots to showcase the Web App:
 
-### Screenshot 1
+### Home Page
 ![Screenshot 1](flutter_dl_flash_integration/images/Screenshot%20(554).png)
 
-### Screenshot 2
+### How it Works
 ![Screenshot 2](flutter_dl_flash_integration/images/Screenshot%20(555).png)
 
-### Screenshot 3
+### Plots And Visuaisations
 ![Screenshot 3](flutter_dl_flash_integration/images/Screenshot%20(556).png)
 
-### Screenshot 4
+### Testing The Model
 ![Screenshot 4](flutter_dl_flash_integration/images/Screenshot%20(557).png)
 
-### Screenshot 5
 ![Screenshot 4](flutter_dl_flash_integration/images/Screenshot%20(558).png)
