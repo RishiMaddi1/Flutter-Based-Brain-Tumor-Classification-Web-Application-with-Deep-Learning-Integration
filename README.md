@@ -18,4 +18,4 @@ Here are some screenshots to showcase the Web App:
 ## Presentation Of My Own Model
 
 You can view the detailed presentation about this project here:  
-[Project Presentation](flutter_dl_flash_integration/images/ppt.pptx)
+[![Project Presentation](flutter_dl_flash_integration/images/Screenshot%20(559).png)](flutter_dl_flash_integration/images/ppt.pptx)
