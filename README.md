@@ -1,5 +1,5 @@
 
-Here are some screenshots to showcasing the Web App:
+Here are some screenshots showcasing the Web App:
 
 ### Home Page
 ![Screenshot 1](flutter_dl_flash_integration/images/Screenshot%20(554).png)
