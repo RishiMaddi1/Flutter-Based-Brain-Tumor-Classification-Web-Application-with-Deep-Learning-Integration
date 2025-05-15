@@ -20,3 +20,19 @@ Here are some screenshots showcasing the Web App:
 You can view the detailed presentation about the ml model here:  
 
 [![Project Presentation](flutter_dl_flash_integration/images/Screenshot%20(559).png)](flutter_dl_flash_integration/images/ppt.pptx)
+
+
+## License Agreement
+
+Copyright © 2025  
+All rights reserved. Maddi Rishi Dhaneswar
+
+This software and its associated documentation are proprietary and confidential.  
+Unauthorized use, reproduction, distribution, or modification of any part of this codebase is strictly prohibited without explicit written permission from the owner (Maddi Rishi Dhaneswar).
+
+This repository is shared for academic evaluation and publication purposes only.
+
+If you wish to collaborate, request access, or seek clarification, please contact:  
+maddi.rishi2468@gmail.com
+
+No license is granted by implication, estoppel, or otherwise.
